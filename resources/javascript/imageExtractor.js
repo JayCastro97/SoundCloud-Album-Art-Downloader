@@ -1,8 +1,6 @@
 function download(){
 	var span = document.querySelector("span.sc-artwork.sc-artwork-placeholder-2.image__full");
 	var image = obj.style.backgroundImage;
-
-
 }
 
 

@@ -2,7 +2,9 @@
 ## Table of contents
 * [General info](#general-info)
 * [Acknowledgements](#acknowledgements)
+
 ## General Info
 Paste a soundcloud link to retrieve album art 
-##Acknowledgements
+
+## Acknowledgements
 * uiGradients.com 
